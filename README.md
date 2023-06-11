@@ -6,4 +6,4 @@ data cleaning, processing ,
 Data Modelling
 Background Design in Power Point
 Data Visualization and Dashboard Build
-Interactive Action Filter
+Interactive Action Filter.
